@@ -1,3 +1,6 @@
+## _OUTDATED_
+_I haven't looked into using child scopes since I created this repository and my projects are still using Dagger 1. Things like [Subcomponents](http://google.github.io/dagger/subcomponents.html) and other aspects exist now that didn't exist when I had originally looked into [the original scoping issue](https://github.com/google/dagger/issues/107#issuecomment-71524636), so I'm sure this is out of date and there may be a better way of approaching this now if you need this sort of thing._
+
 # Dagger 2 Component Scopes Test
 
 [Dagger](http://square.github.io/dagger/) is a super useful tool for dependency
